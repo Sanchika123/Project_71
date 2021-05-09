@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+ 
+}
+
+#photo{
+  vertical-align: middle;
+    width: 100%;
+}
+
+#library{
+    text-align: center;
+height: 50%;
+    width: 50%;
+}
+
+.campus-life{
+    padding-top: 10%;
+}
+
+.movie_head { 
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%;
+    display: inline-block; } 
+
+.movie_head i { 
+    float: right; 
+} 
+.movie_text span {
+    color: #ff7700;
+}
+
+#cricket{
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%;
+    display: inline-block;
+}
+
+#football{
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%;
+    display: inline-block;
+}
+
+html{
+scroll-behavior: smooth;
+}
+
+.main_picture{
+    height: 200px;
+}
+
+.main_picture2{
+    height: 200px;
+    width: 290px;
+}
